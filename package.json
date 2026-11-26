@@ -24,7 +24,7 @@
   "devDependencies": {
     "@cypress/snapshot": "2.1.7",
     "@sveltejs/adapter-static": "3.0.1",
-    "@sveltejs/kit": "2.5.4",
+    "@sveltejs/kit": "3.1.1",
     "@sveltejs/vite-plugin-svelte": "^3.0.1",
     "@testing-library/svelte": "4.1.0",
     "@types/lodash-es": "^4.17.12",
@@ -54,18 +54,18 @@
     "jsdom": "^21.1.2",
     "lint-staged": "^15.2.0",
     "node-html-parser": "^6.1.5",
-    "postcss": "^8.4.33",
+    "postcss": "^8.5.23",
     "postcss-load-config": "5.0.3",
     "prettier": "^3.1.0",
     "prettier-plugin-svelte": "^3.1.2",
     "prettier-plugin-tailwindcss": "^0.5.11",
-    "svelte": "^4.2.8",
+    "svelte": "^5.55.7",
     "svelte-preprocess": "^5.1.3",
     "tailwindcss": "^3.4.1",
     "tslib": "^2.6.2",
     "typescript": "^5.3.3",
-    "vite": "^5.0.11",
-    "vitest": "^1.1.3",
+    "vite": "^6.4.5",
+    "vitest": "^4.1.11",
     "vitest-dom": "^0.1.1"
   },
   "dependencies": {
@@ -73,14 +73,14 @@
     "daisyui": "2.52.0",
     "dayjs": "^1.11.7",
     "js-base64": "3.7.7",
-    "lodash-es": "^4.17.21",
-    "mermaid": "10.9.0",
+    "lodash-es": "^4.18.1",
+    "mermaid": "10.9.8",
     "monaco-editor": "0.47.0",
     "pako": "2.1.0",
     "plausible-tracker": "^0.3.8",
     "random-word-slugs": "0.1.7",
     "svg-pan-zoom": "3.6.1",
-    "uuid": "9.0.1"
+    "uuid": "14.0.0"
   },
   "lint-staged": {
     "*.{ts,svelte,js,css,md,json}": [
